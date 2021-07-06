@@ -354,7 +354,6 @@ nav.show div.icon-close {
   margin-bottom: 0.75rem;
 }
 
-/*====  TESTIMONIALS ============================ */
 #testimonials {
   background: white;
 }
@@ -483,7 +482,6 @@ footer .social a:hover {
   transform: translateY(-8px);
 }
 
-/* Back to top */
 .back-to-top {
   background: var(--base-color);
   color: var(--text-color-light);
@@ -607,7 +605,6 @@ footer .social a:hover {
     max-width: 25rem;
   }
 
-  /* footer */
   footer.section {
     padding: 3.75rem 0;
   }
